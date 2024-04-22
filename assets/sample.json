@@ -1,0 +1,41 @@
+{
+    "nama": "ditateum - gurukoding",
+    "age": 20,
+    "hobby":[
+        "Coding",
+        "Main Game",
+        "Membaca"
+    ],
+    "github":{
+        "username": "@gurukoding",
+        "repositories": 2897,
+        "isGDE": true
+    },
+    "articles":[
+        {
+            "id": 1,
+            "tittle": "God of War",
+            "subtitle": "That is Movie"
+        },
+        {
+            "id": 2,
+            "tittle": "Harvest Moon",
+            "subtitle": "That is Game"
+        },
+        {
+            "id": 3,
+            "tittle": "Avanger",
+            "subtitle": "That is Hero"
+        }
+    ],
+    "contact": {
+        "1": {
+            "name": "jonshon",
+            "contact": "1234567"
+        },
+        "2": {
+            "name": "Angela",
+            "contact": "98764"
+        }
+    }
+}
